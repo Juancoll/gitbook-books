@@ -49,5 +49,8 @@ Un mercado _eficiente_ se define como uno en el que grandes cantidades de agente
 
 {% embed url="https://es.wikipedia.org/wiki/Teorema\_de\_la\_telara%C3%B1a\#/media/Archivo:Cobweb\_theory.png" %}
 
+* John Muth en 1961 publico una comunicación que no solamente explicaba este misterio sino que habría de cambiar el rumbo de la teoría económica moderna durante muchas décadas.
 * [La crítica de lucas](https://es.wikipedia.org/wiki/Cr%C3%ADtica_de_Lucas), como se la conoce, fue un golpe casi letal para la macroeconomía keynesiana y su eficacia en el diseño de políticas macroeconómicas. Esta crítica parece explicar el fracaso de las políticas del gobierno norteamericano a la hora de reducir el desempleo o la inflación durante los años de estanflación. [Robert Lucas](https://es.wikipedia.org/wiki/Robert_Lucas) recibió el premio nobel en 1995 \([Teoría de las expectativas racionales](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_las_expectativas_racionales)\). \(Homo economicus, el ser económico perfectamente racional.\)
+
+### Los mercados eficientes en acción
 

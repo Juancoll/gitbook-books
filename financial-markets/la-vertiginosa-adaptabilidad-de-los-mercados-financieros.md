@@ -64,3 +64,18 @@ Un mercado _eficiente_ se define como uno en el que grandes cantidades de agente
 
 ## Siendo tan listo, ¿por qué no eres tan rico? 
 
+### Rechazar el paseo aleatorio
+
+* [Harry Markowitz](https://es.wikipedia.org/wiki/Harry_Markowitz) desarrolla la teoría de selección de carteras en 1952. "La mayoría de inversores equiparan la varianza en la cotización de un título con su riesgo".\(p.75\) 
+
+### El riesgo frente a la incertidumbre y la paradoja de [Ellsberg](https://es.wikipedia.org/wiki/Paradoja_de_Ellsberg)
+
+{% file src="../.gitbook/assets/manuel-conthe-gutierrez.pdf" caption=" Psicología de las finanzas" %}
+
+{% file src="../.gitbook/assets/aacrea\_leccion\_4.pdf" caption=" Teoría Conductual de la Toma de Decisiones" %}
+
+{% embed url="https://www.rand.org/" %}
+
+* Uno de los jóvenes y brillantes economistas de RAND era Daniel Ellsberg.
+* Hace casi un siglo, el economista [Frank Knight](https://es.wikipedia.org/wiki/Frank_Hyneman_Knight) introdujo la útil distinción entre riesgo e incertidumbre en el léxico económico: llamo riesgo al tipo de aleatoriedad que puede medirse o cuantificarse, y calificó como incertidumbre a la aleatoriedad donde eso no es posible.
+

@@ -42,6 +42,9 @@ Un mercado _eficiente_ se define como uno en el que grandes cantidades de agente
 * "Merece la pena señalar que la codicia no es un termino peyorativo para un economista." \(p.48\)
 * "Pero, evidentemente todo comportamiento tiene sus consecuencias sociales y la codicia llevada al extremo, puede tener implicaciones morales u éticas negativas, por más que los economistas por lo genera no se paren a pensar en esas cosas." \(p.48\)
 * Teoría de la optimización de cartera de [Harry Markowitz](https://es.wikipedia.org/wiki/Harry_Markowitz), El modelo de valoraciones de activos financieros de [William Sharpe ](https://es.wikipedia.org/wiki/William_Sharpe)y la formula de los precios de las opciones de [Fisher Black](https://es.wikipedia.org/wiki/Fischer_Black), [Myron Scholes](https://en.wikipedia.org/wiki/Myron_Scholes) y [Robert C. Merton](https://es.wikipedia.org/wiki/Robert_C._Merton). Todos estos descubrimientos se produjeron en el espacio de unos pocos años y arrojaron luz sobre aspectos del comportamiento de los mercados que habían constituido un misterio durante siglos.
+
+### Qué esperar cuando estás esperando
+
 * Un de los primeros analistas fue Samuel Benner, publica en 1876, profecías de Benner sobre la subidas y bajadas de precios. 
 
 {% embed url="https://es.wikipedia.org/wiki/Teorema\_de\_la\_telara%C3%B1a\#/media/Archivo:Cobweb\_theory.png" %}

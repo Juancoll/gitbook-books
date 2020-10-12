@@ -54,3 +54,11 @@ Un mercado _eficiente_ se define como uno en el que grandes cantidades de agente
 
 ### Los mercados eficientes en acción
 
+* Los Iowa Electronic Markets - en origen Iowa Presidential StockMarket - tal vez supongan el mercado predictivo de investigación más conocido y se remonta a la elección presidencial de 1988.
+* Sloan trading Lab
+
+{% embed url="https://mitsloan.mit.edu/action-learning/fin-lab" %}
+
+* Lo que descubrimos fue increíble. Al cabo de dos o tres minutos de sesión, los mercados STOC ya habían clasificado los productos. Con tan solo veintiocho estudiantes jugando en nuestro mercado STOC para ganarse unos cuantos cientos de dólares en vales de regalo, al cabo de 10 minutos ya habíamos identificado una correlación de aproximadamente 85% entre la clasificación de nuestro mercado de laboratorio y la de los estudios tradicionales de los consumidores \(una correlación perfecta seria del 100%\). En comparación, un estudio de consumidores típico requiere varios cientos de participantes y cuesta decenas de miles de dólares \(si no mas\) y el estudio completo puede tardar semanas en realizarse. Aparentemente, la sabiduría de la multitud sale ciertamente barata, por lo menos si usas un mercado para extraer esa sabiduría. \(p.67\) 
+* Los mercados eficientes son herramientas potentes y practicas para agregar la información y lo hacen más rápido y de manera más barata que cualquier otra alternativa conocida. Efectivamente, un mercado se comporta como un inmenso super ordenador, uno cuyas piezas individuales son el tipo de ordenador más inteligente que conocemos: El cerebro humano. \(p.67-68\)
+

@@ -43,4 +43,6 @@
   * [Leones contra Gacelas](tecnical-analisys/leones-contra-gacelas.md)
   * [The Art and Science of Technical Analisys](tecnical-analisys/the-art-and-science-of-technical-analisys.md)
   * [Análisis Técnico de los Mercados Financieros](tecnical-analisys/analisis-tecnico-de-los-mercados-financieros.md)
+* [Fintech](fintech/README.md)
+  * [Fintech - lo que la tecnología hace por las finanzas](fintech/fintech-lo-que-la-tecnologia-hace-por-las-finanzas.md)
 

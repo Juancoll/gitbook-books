@@ -76,6 +76,11 @@ Un mercado _eficiente_ se define como uno en el que grandes cantidades de agente
 
 {% embed url="https://www.rand.org/" %}
 
-* Uno de los jóvenes y brillantes economistas de RAND era Daniel Ellsberg.
+* Uno de los jóvenes y brillantes economistas de RAND era Daniel Ellsberg. "En la noción de riesgo, la probabilidad es conocida \(ejemplo: lanzamiento de dados\) pero no la incertidumbre"
 * Hace casi un siglo, el economista [Frank Knight](https://es.wikipedia.org/wiki/Frank_Hyneman_Knight) introdujo la útil distinción entre riesgo e incertidumbre en el léxico económico: llamo riesgo al tipo de aleatoriedad que puede medirse o cuantificarse, y calificó como incertidumbre a la aleatoriedad donde eso no es posible.
+* Para sectores con riesgo en términos de Knight, en los que el elemento aleatorio del negocio podía medirse, este se mediría y las fuerzas de la competencia acabarían haciendo que el beneficio tendiera a cero a medida que ese sector en particular se fuera transformando en un mercado de producto básico o commodity. Ahora bien, en el caso de sectores que se enfrentaran a la incertidumbre tal y como la definía Knight - por ejemplo, sectores que utilizaran tecnologías completamente nuevas y sin testar - esa transformación en negocio de producto básico no resultaría nada fácil ya que, por definición, la aleatoriedad no podía cuantificarse. Estos elementos desconocidos hacen que la mayoría de nosotros nos retiremos de la partida. Pero también constituyen las circunstancias en los millionarios hacen su fortuna. Me viene a la mente Mark Zuckerberg y Facebook...
+
+### Perder duele más de los que se disfruta ganando
+
+* Aversión a la pérdida. Cuando tomamos decisiones de resultado arriesgado, la mayoría de nosotros da más peso a las posibles pérdidas que a las potenciales Ganancias.
 

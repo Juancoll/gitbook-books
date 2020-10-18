@@ -35,3 +35,35 @@ description: David Igual
 * Generalización uso del smartphone
 * Redes sociales
 
+## Detalles por actividad
+
+### Innovación en pagos y transacciones económicas
+
+* Eliminación de efectivo
+* Pagos con móvil 
+* Pagos en tiempo real
+
+#### Tipos de operaciones y transacciones económicas
+
+* compras en tiendas físicas
+* Compras en tiendas online
+* Pagos entre Particulares
+* Domiciliaciones 
+* Información sobre saldos, movimientos, etc.
+
+Simplicidad y abaratamiento de los costes 
+
+### Crowdfunding
+
+* Economía colaborativa 
+
+| Actividad | Ejemplos |
+| :--- | :--- |
+| Consumo  | Airbnb, Uber, Blablacar... |
+| Enseñanza  | Apprentus, Skillsharem,khan... |
+| Producción | Wikipedia, Openstreetmap... |
+| Finanzas | LoanBook, TransferWise... |
+| Gobernanza | Loomio, Refugees, Welcome... |
+
+Se  caracteriza por la cooperación de personas que forman una red para conseguir dinero y financias iniciativas de otras personas u organizaciones.
+

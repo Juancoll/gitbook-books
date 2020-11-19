@@ -11,5 +11,7 @@ description: Michael Lewis
 Historia de Michael Lewis en Salomon Brothers en la epoca de los 80. Boom de los bonos Hipotecas y bonos basura. Los Bonos de las Empresas. Muy entretenido. Aparecen
 
 * Jon Gutfreund [wikipedia](https://es.wikipedia.org/wiki/John_Gutfreund)
-* Michael Milken [wikipedia](https://en.wikipedia.org/wiki/Michael_Milken). Caida de Salomon Brother
+* Michael Milken [wikipedia](https://en.wikipedia.org/wiki/Michael_Milken). Caída de Salomon Brother
+
+
 
